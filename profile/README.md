@@ -10,8 +10,6 @@ The Cal Poly Simulation Laboratory is a group of students working on projects in
 
 Students will gain experience in spacecraft navigational systems through modeling, simulation, design, build, and test activities.  Students will also host panel sessions, workshops, and other forums with a focus on the peaceful, sustainable, and socially just use of space and space technology. 
 
-[YouTube](https://www.youtube.com/watch?v=rEd0ajrGmiY&list=RDrEd0ajrGmiY&start_radio=1)
-
 <!--
 
 **Here are some ideas to get you started:**
